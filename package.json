@@ -1,0 +1,23 @@
+{
+  "name": "clc-bostock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveraaen/clc-bostock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveraaen/clc-bostock/issues"
+  },
+  "homepage": "https://github.com/steveraaen/clc-bostock#readme",
+  "dependencies": {
+    "d3-geo-projection": "^2.1.2",
+    "shapefile": "^0.6.2"
+  }
+}
